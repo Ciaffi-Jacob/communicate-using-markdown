@@ -7,3 +7,6 @@
 System.out.println("Cash Money");
 ```
 
+- [ ] Ayy lmao
+- [ ] Hack the mainframe
+- [ ] git gud
